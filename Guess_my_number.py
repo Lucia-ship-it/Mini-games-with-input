@@ -3,10 +3,13 @@ print("\nHi, I'm Bill\n")
 
 print("Let's play a game: guess my number. Can you figure it out?\n")
 
-print("I'm thinking of a number between 1 and 10.\n")
+
+import random
+
 
 while True:
-    my_secret_number = 7
+    print("I'm thinking of a number between 1 and 10.\n")
+    my_secret_number = random.randint(1, 10)
     your_guess = int(input("What number am I thinking of? "))
 
     while my_secret_number != your_guess:
@@ -34,9 +37,8 @@ while True:
           
         
 
-# 1. dorobit - pocitadlo neplatnych pokusov s vylepsenymi hlaskami
-    #"Soo?: ")  print(f"Hey dude, Come on, it's just 'yes' or 'no'!\n{again}")
-# 2. random vyber cisla pocitacom
-# 3. postupne zobrazovanie textu, s oneskorenim pri hlaske o uhadnuti cisla
+#  1. dorobit - pocitadlo neplatnych pokusov s vylepsenymi hlaskami
+#     #"Soo?: ")  print(f"Hey dude, Come on, it's just 'yes' or 'no'!\n{again}")
+#  2. postupne zobrazovanie textu, s oneskorenim pri hlaske o uhadnuti cisla
 
 
