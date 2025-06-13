@@ -36,9 +36,13 @@ while True:
             print("Just type 'yes' or 'no'.")
           
         
-
-#  1. dorobit - pocitadlo neplatnych pokusov s vylepsenymi hlaskami
-#     #"Soo?: ")  print(f"Hey dude, Come on, it's just 'yes' or 'no'!\n{again}")
-#  2. postupne zobrazovanie textu, s oneskorenim pri hlaske o uhadnuti cisla
-
+# OK    slucka na yes/no
+#       pocitadlo neplatnych pokusov s vylepsenymi hlaskami
+#       "Soo?: ")  print(f"Hey dude, Come on, it's just 'yes' or 'no'!\n{again}")
+# OK    vyber nahodneho cisla pocitacom
+#       postupne zobrazovanie textu, s oneskorenim pri hlaske o uhadnuti cisla
+#       skóre
+#       počet pokusov
+#       výber úrovne obtiažnosti
+#       Udrží konzolu otvorenú
 
