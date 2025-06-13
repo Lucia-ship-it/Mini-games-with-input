@@ -32,6 +32,7 @@ while True:
         else:
             print("Just type 'yes' or 'no'.")
           
+        
 
 # 1. dorobit - pocitadlo neplatnych pokusov s vylepsenymi hlaskami
     #"Soo?: ")  print(f"Hey dude, Come on, it's just 'yes' or 'no'!\n{again}")
