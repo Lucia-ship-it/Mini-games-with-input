@@ -2,3 +2,5 @@
 In this repository are stored playful mini-codes 
 
 1. game called: Guess my number.
+
+2. log in Password - Mini-prihlasovací systém – jednoduchý príkazový skript na overovanie hesiel so zablokovaním po 3 neúspešných pokusoch

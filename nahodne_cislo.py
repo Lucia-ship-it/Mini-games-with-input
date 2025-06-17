@@ -1,4 +1,7 @@
-# import random
+#PRACOVNE PROSTREDIE CASTI KODU
+# 
+# 
+#  import random
 
 # def random_number (min,max):
 #     """vrati nahodne cislo v rozsahu, ktory mu nastavim"""
